@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/ConnectionDB.java=UTF-8
+encoding//src/PMSMain.java=UTF-8
+encoding//src/model/AdministratorDAO.java=UTF-8
+encoding//src/model/ApprovalDAO.java=UTF-8
+encoding//src/model/EmpDAO.java=UTF-8
+encoding//src/model/JobGrantDAO.java=UTF-8
+encoding//src/model/OrderDAO.java=UTF-8
+encoding//src/model/PartnerDAO.java=UTF-8
+encoding//src/model/SupplyDAO.java=UTF-8
+encoding//src/model/rec/ProjectVO.java=UTF-8
+encoding//src/view/GraphView.java=UTF-8
+encoding//src/view/OrderView.java=UTF-8
+encoding//src/view/PartnerView.java=UTF-8
+encoding//src/view/ProjectModifyView.java=UTF-8
+encoding//src/view/ProjectPutupView.java=UTF-8
+encoding//src/view/SupplyView.java=UTF-8
